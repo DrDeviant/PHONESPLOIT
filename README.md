@@ -6,6 +6,7 @@
 
 ### ✰𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙰𝙽 𝙰𝙽𝙳𝚁𝙾𝙸𝙳 𝙾𝙿𝙴𝙽 𝙿𝙾𝚁𝚃✰
 > It is very easy to just open settings go to about and repetitively click on build number and then a pop notification shown "You are now Developer" then go back to main settings and check their new option shown (Developer Option) click on that and enable USB dubbing in it. Now it's done.
+>> If you want to pick random IP address then you can find open ports here [👉🏻RANDOM IP ADDRESS👈🏻](shodan.io) and search `Android debug emulator`
 
 ![Screenshot_2021-03-22-17-57-06-49](https://user-images.githubusercontent.com/75029023/111975048-1a916680-8b3b-11eb-9dc7-cb17acdfffd0.jpg)
 
