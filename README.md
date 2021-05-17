@@ -4,6 +4,9 @@
 
 > PhoneSploit is tool for remote ADB Exploitation. With the help of this tool you can control android device by just IP address.  
 
+### ✰𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙰𝙽 𝙰𝙽𝙳𝚁𝙾𝙸𝙳 𝙾𝙿𝙴𝙽 𝙿𝙾𝚁𝚃✰
+> It is very easy to just open settings go to about and repetitively click on build number and then a pop notification shown "You are now Developer" then go back to main settings and check their new option shown (Developer Option) click on that and enable USB dubbing in it. Now it's done.
+
 ### ✰𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽✰ : 
 ```
 $ pkg up -y 
